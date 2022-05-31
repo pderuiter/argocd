@@ -17,7 +17,7 @@ spec:
         injector:
           enabled: false
     repoURL: https://github.com/hashicorp/vault-helm
-    targetRevision: HEAD
+    targetRevision: 0.20.1
   syncPolicy:
     automated:
       prune: true
