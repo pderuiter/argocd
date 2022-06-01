@@ -17,6 +17,7 @@ spec:
         cstor:
           enabled: true
     repoURL: https://openebs.github.io/charts
+    targetRevision: 3.2.0
   syncPolicy:
     automated:
       prune: true
